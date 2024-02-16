@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "WorldNews",
+    "slug": "WorldNews",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7408ea0b-e880-4b1a-918c-0d52a97bfd0e"
+      }
+    },
+    "android": {
+      "package": "com.devqueror.jobhive"
+    }
+  }
+}
